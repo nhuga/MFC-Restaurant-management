@@ -4,14 +4,11 @@ Final Project for OOP Course @ H.I.T
 
 The management system programmed using MFC and C++.
 
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-    <img src="MFC_Final_Project_Rest_Update/res/logo.bmp" alt="Logo" width="80" height="80">
-  <h3 align="center">screenshots</h3>
+## screenshots:
 
-</p>
-
-<img src="screenshots/setup.png" alt="setup">
+<img src="screenshots/setup.PNG" alt="setup">
+<img src="screenshots/main.PNG" alt="main">
+<img src="screenshots/new%20order.PNG.PNG" alt="new order">
+<img src="screenshots/copyright.PNG.PNG" alt="copyright">
 
 The project made with YardenGispan.
